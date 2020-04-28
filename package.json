@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-orka/webpack-day-Jacob-Taeil/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-orka/webpack-day-Jacob-Taeil#readme"
+  "homepage": "https://github.com/thinkful-ei-orka/webpack-day-Jacob-Taeil#readme",
+  "dependencies": {
+    "jquery": "^3.5.0"
+  }
 }
