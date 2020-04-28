@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/thinkful-ei-orka/webpack-day-Jacob-Taeil#readme",
   "dependencies": {
+    "cuid": "^2.1.8",
     "jquery": "^3.5.0"
   },
   "devDependencies": {
